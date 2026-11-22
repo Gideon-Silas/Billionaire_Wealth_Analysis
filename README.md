@@ -296,16 +296,18 @@ The project also demonstrates the importance of translating raw query results in
 
  ## Repository Structure
 Suggested GitHub repository layout:
+```
 Billionaire-Wealth-Analysis/
-│
-├── README.md
-│
+
 ├── Dataset/
 │   └── Top 200 Richest Person in the World.csv
-│
-├── Project_Script/
+│    
+└── Project_Script/
 │   ├── 200_Top_Billionaires
-└── 
+│    
+└──Introductory_Image
+├── README.md
+```
 ________________________________________
 Project Status: SQL analysis completed in development; findings verification, and documentation
 
