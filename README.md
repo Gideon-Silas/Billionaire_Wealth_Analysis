@@ -213,7 +213,7 @@ He enjoys turning messy business data into decisions people can act on, especial
 
 - [LinkedIn](https://www.linkedin.com/in/gideonsilas)
 - [Email](gideonmondaysilas@gmail.com)
-- [More projects](https://wwww.github.com/Gideon-Silas)
+- [More projects](https://www.github.com/Gideon-Silas)
 
 *If you found this project useful, feel free to star the repository.*
 
