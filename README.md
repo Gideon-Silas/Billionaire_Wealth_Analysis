@@ -175,11 +175,11 @@ The final analysis highlights:
 8.	Industries whose average net worth exceeds the overall benchmark etc.
    
 ## Project Limitations
-•	The analysis is based on only 200 individuals, not the entire global billionaire population.
-•	The dataset represents a particular point in time and may not reflect current wealth rankings.
-•	The analysis identifies patterns and associations but does not establish the causes of wealth differences.
-•	Country and industry classifications depend on how the original dataset defines and records them.
-•	Average values can be influenced by extremely high net worth observations.
+- The analysis is based on only 200 individuals, not the entire global billionaire population.
+-	The dataset represents a particular point in time and may not reflect current wealth rankings.
+-	The analysis identifies patterns and associations but does not establish the causes of wealth differences.
+-	Country and industry classifications depend on how the original dataset defines and records them.
+-	Average values can be influenced by extremely high net worth observations.
 
 
 ## Conclusion
@@ -187,19 +187,20 @@ This project applies SQL to investigate wealth distribution among the 200 riches
 Through structured queries and business-driven questions, the analysis explores individual wealth, demographic patterns, country representation and industry distribution.
 The project also demonstrates the importance of translating raw query results into meaningful business insights.
 
- ## Repository Structure
+ ## 📁 Repository Structure
 Suggested GitHub repository layout:
 ```
-Billionaire-Wealth-Analysis/
-
+Billionaire_Wealth_Analysis/
+│
+├── Business_Questions_and_SQL_Analysis/
+│
 ├── Dataset/
 │   └── Top 200 Richest Person in the World.csv
-│    
-└── Project_Script/
-│   ├── 200_Top_Billionaires
-│    
-└──Introductory_Image
-├── README.md
+├── Project_Script/
+│   └── 200_Top_Billionaires
+├── Introductory_Image.png
+│
+└── README.md
 ```
 ________________________________________
 Project Status: SQL analysis completed; findings verified and documented.
