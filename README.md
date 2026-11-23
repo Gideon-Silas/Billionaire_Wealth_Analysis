@@ -16,15 +16,15 @@ An Exploratory SQL Data Analysis of the World's 200 Richest Billionaires
 - The project demonstrates how SQL can be used to explore structured data, answer business questions, identify patterns and communicate meaningful insights.
 
 ## The objectives of this project are to:
-•	Identify the wealthiest individuals in the dataset.
-•	Examine the age distribution of billionaires.
-•	Calculate average age and net worth.
-•	Investigate billionaire representation across countries.
-•	Calculate combined wealth by country.
-•	Identify industries with the highest billionaire representation.
-•	Examine wealth distribution across age groups.
-•	Compare average net worth across countries and industries.
-•	Identify industries whose average wealth exceeds the overall dataset average.
+-	Identify the wealthiest individuals in the dataset.
+-	Examine the age distribution of billionaires.
+-	Calculate average age and net worth.
+-	Investigate billionaire representation across countries.
+-	Calculate combined wealth by country.
+-	Identify industries with the highest billionaire representation.
+-	Examine wealth distribution across age groups.
+-	Compare average net worth across countries and industries.
+-	Identify industries whose average wealth exceeds the overall dataset average.
 
 ## Dataset Description
 - Dataset: Top 200 Richest Person in the World
@@ -41,19 +41,19 @@ An Exploratory SQL Data Analysis of the World's 200 Richest Billionaires
 - industry:	Industry associated with the billionaire
 
 ## Data types
-•	serial_number: Integer
-•	rank: Integer
-•	name: Text
-•	age: Integer
-•	country: Text
-•	networth_billion_US_dollars: Numeric
-•	industry: Text
+-	serial_number: Integer
+-	rank: Integer
+-	name: Text
+-	age: Integer
+-	country: Text
+-	networth_billion_US_dollars: Numeric
+-	industry: Text
 
 ## Tools and Technologies
-•	Microsoft SQL Server
-•	SQL Server Management Studio (SSMS 22)
-•	Microsoft Excel (data inspection and preparation)
-•	GitHub (project documentation and portfolio presentation)
+-	Microsoft SQL Server
+-	SQL Server Management Studio (SSMS 22)
+-	Microsoft Excel (data inspection and preparation)
+-	GitHub (project documentation and portfolio presentation)
 
 ## Database Setup
 - The dataset was imported into a SQL Server database named:
