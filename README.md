@@ -68,54 +68,54 @@ USE Billionaire_Wealth_Analysis;
 ### BUSINESS QUESTION 1
 Who are the 20 richest billionaires in the dataset?
 
-![Introduction](Business_Questions_and_SQL_Analysis/01_Top_twenty_richest)
+![Introduction](Business_Questions_and_SQL_Analysis/01_Top_twenty_richest.png)
 Purpose: Identify the 20 individuals with the highest net worth.
 
 ### BUSINESS QUESTION 2
 Who are the five youngest billionaires?
 
-![Introduction](Business_Questions_and_SQL_Analysis/02_Five_youngest_billionaires)
+![Introduction](Business_Questions_and_SQL_Analysis/02_Five_youngest_billionaires.png)
 Purpose: Identify the youngest individuals in the dataset.
 
 ### BUSINESS QUESTION 3
 What are the average age and average net worth of the 200 billionaires?
-![Introduction](Business_Questions_and_SQL_Analysis/03_Average_age_&_networth)
+![Introduction](Business_Questions_and_SQL_Analysis/03_Average_age_&_networth.png)
 Purpose: Establish the average demographic and wealth profile.
 Finding: The average age is 69.38 years, while the average net worth is approximately $31.84 billion.
 
 ### BUSINESS QUESTION 4
 Which five countries have the highest number of billionaires?
-![Introduction](Business_Questions_and_SQL_Analysis/04_Highest_number_of_billionaire_by_countries)
+![Introduction](Business_Questions_and_SQL_Analysis/04_Highest_number_of_billionaire_by_countries.png)
 Purpose: Identify the countries with the highest billionaire representation.
 
 ### BUSINESS QUESTION 5
 What is the combined net worth of billionaires in each country?
-![Introduction](Business_Questions_and_SQL_Analysis/05_Combined_networth_of_billionaires)
+![Introduction](Business_Questions_and_SQL_Analysis/05_Combined_networth_of_billionaires.png)
 Purpose: Compare the total wealth represented by each country.
 
 ### BUSINESS QUESTION 6
 Which five industries have the highest number of billionaires?
-![Introduction](Business_Questions_and_SQL_Analysis/06_Five_industries_with_highest_number_of_billionaires)
+![Introduction](Business_Questions_and_SQL_Analysis/06_Five_industries_with_highest_number_of_billionaires.png)
 Purpose: Identify the industries with the highest billionaire representation.
 
 ### BUSINESS QUESTION 7
 Which countries have at least five billionaires?
-![Introduction](Business_Questions_and_SQL_Analysis/07_Countries_with_atleast_five_billionaires)
+![Introduction](Business_Questions_and_SQL_Analysis/07_Countries_with_atleast_five_billionaires.png)
 Purpose: Identify countries meeting the minimum representation threshold.
 
 ### BUSINESS QUESTION 8
 What is the total net worth of billionaires younger than 50?
-![Introduction](Business_Questions_and_SQL_Analysis/08_Total_networth_of_billionaires_younger_than_50)
+![Introduction](Business_Questions_and_SQL_Analysis/08_Total_networth_of_billionaires_younger_than_50.png)
 Purpose: Calculate the combined wealth of billionaires below age 50.
 
 ### BUSINESS QUESTION 9
 Which billionaires have a net worth above the overall average?
-![Introduction](Business_Questions_and_SQL_Analysis/09_Billionaires_with_networth_exceeding_overall_avg)
+![Introduction](Business_Questions_and_SQL_Analysis/09_Billionaires_with_networth_exceeding_overall_avg.png)
 Purpose: Identify individuals whose net worth exceeds the overall dataset average.
 
 ### BUSINESS QUESTION 10
 Which industry has the highest average net worth?
-![Introduction](Business_Questions_and_SQL_Analysis/10_Industry_with_highest_avg_networth)
+![Introduction](Business_Questions_and_SQL_Analysis/10_Industry_with_highest_avg_networth.png)
 Purpose: Identify the industry with the highest average billionaire wealth.
 ________________________________________
 ## Additional Business Questions
@@ -123,27 +123,27 @@ The following questions extend the original analysis and provide deeper insights
 
 ### ADDITIONAL BUSINESS QUESTION 11
 Which age group has the highest combined net worth?
-![Introduction](Business_Questions_and_SQL_Analysis/11_Age_group_with_highest_combined_networth)
+![Introduction](Business_Questions_and_SQL_Analysis/11_Age_group_with_highest_combined_networth.png)
 Purpose: Compare the combined wealth of different age groups.
 
 ### ADDITIONAL BUSINESS QUESTION 12
 How many billionaires belong to each age group?
-![Introduction](Business_Questions_and_SQL_Analysis/12_Billionaires_belonging_to_each_age_group)
+![Introduction](Business_Questions_and_SQL_Analysis/12_Billionaires_belonging_to_each_age_group.png)
 Purpose: Understand the age composition of the dataset.
 
 ### ADDITIONAL BUSINESS QUESTION 13
 Which country has the highest average billionaire net worth?
-![Introduction](Business_Questions_and_SQL_Analysis/13_Country_with_highest_avg_billionaire_networth)
+![Introduction](Business_Questions_and_SQL_Analysis/13_Country_with_highest_avg_billionaire_networth.png)
 Purpose: Compare average billionaire wealth across countries.
 
 ### ADDITIONAL BUSINESS QUESTION 14
 Which industry has the highest combined net worth?
-![Introduction](Business_Questions_and_SQL_Analysis/14_Country_with_highest_combined_networth)
+![Introduction](Business_Questions_and_SQL_Analysis/14_Country_with_highest_combined_networth.png)
 Purpose: Identify the industry representing the greatest combined wealth.
 
 ### ADDITIONAL BUSINESS QUESTION 15
 Which industries have an average net worth above the overall dataset average?
-![Introduction](Business_Questions_and_SQL_Analysis/15_Industries_with_avg_networth_exceeding_overall_avg)
+![Introduction](Business_Questions_and_SQL_Analysis/15_Industries_with_avg_networth_exceeding_overall_avg.png)
 Purpose: Identify industries whose average billionaire wealth exceeds the overall average.
 ________________________________________
 ## Key SQL Concepts Applied
